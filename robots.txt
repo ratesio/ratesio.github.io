@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ratesio.github.io/sitemap.html.gz
+Sitemap: https://ratesio.github.io/app/sitemap.html.gz
+Sitemap: https://ratesio.github.io/assets/sitemap.html.gz
+Sitemap: https://ratesio.github.io/css/sitemap.html.gz
+Sitemap: https://ratesio.github.io/includes/sitemap.html.gz
+Sitemap: https://ratesio.github.io/item/sitemap.html.gz
+Sitemap: https://ratesio.github.io/src/sitemap.html.gz
